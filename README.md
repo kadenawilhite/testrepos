@@ -1,2 +1,3 @@
 # testrepos
-test in class
+test in class  
+add a new line
